@@ -1,0 +1,16 @@
+h1 {
+	Text-align: Center;
+	color: Salmon;
+	font-family: Helvetica;
+}
+
+body {
+	background-color: LawnGreen;
+	color: Indigo;
+	font-family: Helvetica;
+}
+
+h2{
+	color: DarkMagenta;
+	text-align: Center;
+}
